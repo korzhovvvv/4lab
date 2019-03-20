@@ -1,0 +1,29 @@
+F:\GitHub\Work4\files\bin\Debug\files.exe
+F:\GitHub\Work4\files\bin\Debug\files.pdb
+F:\GitHub\Work4\files\obj\Debug\files.csprojResolveAssemblyReference.cache
+F:\GitHub\Work4\files\obj\Debug\files.MainForm.resources
+F:\GitHub\Work4\files\obj\Debug\files.Properties.Resources.resources
+F:\GitHub\Work4\files\obj\Debug\files.csproj.GenerateResource.Cache
+F:\GitHub\Work4\files\obj\Debug\files.exe
+F:\GitHub\Work4\files\obj\Debug\files.pdb
+D:\Учеба\третий семестр\БКиТ\Lab4\Work4-master\obj\Debug\files.exe
+D:\Учеба\третий семестр\БКиТ\Lab4\Work4-master\obj\Debug\files.pdb
+D:\Учеба\третий семестр\БКиТ\4\Work4-master\obj\Debug\files.exe
+D:\Учеба\третий семестр\БКиТ\4\Work4-master\obj\Debug\files.pdb
+D:\Учеба\третий семестр\БКиТ\Lab4\Lab4\obj\Debug\files.exe
+D:\Учеба\третий семестр\БКиТ\Lab4\Lab4\obj\Debug\files.pdb
+D:\Учеба\третий семестр\БКиТ\Lab4\Lab4\bin\Debug\files.exe
+D:\Учеба\третий семестр\БКиТ\Lab4\Lab4\bin\Debug\files.pdb
+D:\Учеба\третий семестр\БКиТ\Lab4\Lab4\obj\Debug\files.csprojResolveAssemblyReference.cache
+D:\Учеба\третий семестр\БКиТ\Lab4\Lab4\obj\Debug\files.MainForm.resources
+D:\Учеба\третий семестр\БКиТ\Lab4\Lab4\obj\Debug\files.Properties.Resources.resources
+D:\Учеба\третий семестр\БКиТ\Lab4\Lab4\obj\Debug\files.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\Lab4-master\Lab4\bin\Debug\files.exe
+C:\Users\admin\source\repos\Lab4-master\Lab4\bin\Debug\files.pdb
+C:\Users\admin\source\repos\Lab4-master\Lab4\obj\Debug\files.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Lab4-master\Lab4\obj\Debug\files.MainForm.resources
+C:\Users\admin\source\repos\Lab4-master\Lab4\obj\Debug\files.Properties.Resources.resources
+C:\Users\admin\source\repos\Lab4-master\Lab4\obj\Debug\files.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Lab4-master\Lab4\obj\Debug\files.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Lab4-master\Lab4\obj\Debug\files.exe
+C:\Users\admin\source\repos\Lab4-master\Lab4\obj\Debug\files.pdb
